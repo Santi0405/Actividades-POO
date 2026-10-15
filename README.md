@@ -53,4 +53,4 @@ Docente: Walter Hugo Arboleda Mazo
 En el siguiente archivo encontrarás el código completo de los 5 ejercicios propuestos:
 
 * [Código Ejercicios](./Ejercicios.Actividad.3.ipynb)
-* [PDF Actividad 2](./SantiagoAlvarez_Actividad3POO.pdf)
+* [PDF Actividad 3](./SantiagoAlvarez_Actividad3POO.pdf)
