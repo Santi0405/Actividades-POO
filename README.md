@@ -72,4 +72,4 @@ Docente: Walter Hugo Arboleda Mazo
 En el siguiente archivo encontrarás el código completo de los 5 ejercicios propuestos:
 
 * [Código Ejercicios](./SantiagoAlvarez_Actividad4POO.py)
-* [PDF Actividad 3](./SantiagoAlvarez_Actividad4POO.pdf)
+* [PDF Actividad 4](./SantiagoAlvarez_Actividad4POO.pdf)
