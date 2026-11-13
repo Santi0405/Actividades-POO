@@ -54,3 +54,22 @@ En el siguiente archivo encontrarás el código completo de los 5 ejercicios pro
 
 * [Código Ejercicios](./Ejercicios.Actividad.3.ipynb)
 * [PDF Actividad 3](./SantiagoAlvarez_Actividad3POO.pdf)
+
+# POO: Actividad 4: Individual
+
+Universidad Nacional De Colombia
+
+Actividad: Actividad 4: Individual - Valor 20%
+
+Estudiante: Santiago Alvarez Naranjo
+
+Docente: Walter Hugo Arboleda Mazo
+
+---
+
+## Código ejercicios resueltos:
+
+En el siguiente archivo encontrarás el código completo de los 5 ejercicios propuestos:
+
+* [Código Ejercicios](./SantiagoAlvarez_Actividad4POO.py)
+* [PDF Actividad 3](./SantiagoAlvarez_Actividad4POO.pdf)
